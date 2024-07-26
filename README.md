@@ -1,4 +1,4 @@
-## Hi, I’m Devadharshiyne Baskaran
+## Hi there, I’m Devadharshiyne Baskaran
 Passionate graduate from Panimalar Engineering College, skilled in Artificial Intelligence and Data Science, seeking opportunities to apply my expertise and drive innovation. Adaptable, attentive, and eager to contribute to the field of AI and data analytics.
 ##
 Front-end Developer | Artificial Intelligence & Data science 
