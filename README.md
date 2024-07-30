@@ -2,7 +2,7 @@
 Passionate graduate from Panimalar Engineering College, skilled in Artificial Intelligence and Data Science, seeking opportunities to apply my expertise and drive innovation. Adaptable, attentive, and eager to contribute to the field of AI and data analytics.
 ##
 Front-end Developer | Artificial Intelligence & Data science 
-<img align="right" width="370" height="290" src="https://github.com/Abarna-baskaran/Abarna-baskaran/issues/5#issue-2437724405">
+<img align="right" width="370" height="290" src=""https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"">
 - 🔭 Here's my [portfolio]()  
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning React Js
