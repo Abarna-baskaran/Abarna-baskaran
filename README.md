@@ -29,6 +29,7 @@ Front-end Developer | Artificial Intelligence & Data science
 <img height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdwYWttaWRpbHFrNng2OTVhOWdsc2EwZnNza3Nna2RiZWhsdW9tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vSdMuEeAApptJgcDbO/giphy.gif"/> 
 <img height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c0NjlzZzFlY2s5ZDIwYmYzYmZvY2s2NDdwNjBqMHh1Z3ZicXdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jZIq9jQjvBE6krE3Z6/giphy.gif"/>
 <img height="50" width="50" src="https://github.com/Abarna-baskaran/Abarna-baskaran/issues/1#issue-2431744730">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abarna-baskaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
